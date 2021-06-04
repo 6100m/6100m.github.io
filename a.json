@@ -1,6 +1,6 @@
   
 {
-  "key_path": "/var/xc24/placeholder/filemaker_private.pem",
+  "key_path": "/var/xc24/pl/prv.pem",
   "file_path": "/var/www/foretest.wii.xc24.xyz/",
   "production": true,
   "multithreaded": true,
@@ -15,6 +15,6 @@
   ],
   "packVFF": true,
   "winePath": "/bin/wine",
-  "prfArcPath": "/var/xc24/placeholder/sdk/prfArc.exe",
+  "prfArcPath": "/var/xc24/pl/sdk/prfArc.exe",
   "download_locations": false
 }
