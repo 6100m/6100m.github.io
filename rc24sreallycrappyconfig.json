@@ -1,0 +1,20 @@
+  
+{
+  "key_path": "/var/xc24/placeholder/filemaker_private.pem",
+  "file_path": "/var/www/foretest.wii.xc24.xyz/",
+  "production": true,
+  "multithreaded": true,
+  "wii_u_generation": false,
+  "check_coordinates": false,
+  "send_logs": true,
+  "send_stats": true,
+  "send_webhooks": true,
+  "sentry_url": "http://status.domain.tld/",
+  "webhook_urls": [
+    "http://status.domain.tld/"
+  ],
+  "packVFF": true,
+  "winePath": "/bin/wine",
+  "prfArcPath": "/var/xc24/placeholder/sdk/prfArc.exe",
+  "download_locations": false
+}
